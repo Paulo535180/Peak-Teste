@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Peak.API", "Peak.API.csproj", "{F66CE487-1073-4785-A60E-52361C1D9C09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F66CE487-1073-4785-A60E-52361C1D9C09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F66CE487-1073-4785-A60E-52361C1D9C09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F66CE487-1073-4785-A60E-52361C1D9C09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F66CE487-1073-4785-A60E-52361C1D9C09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE6899A6-39D4-4A50-A801-5829DC460BD0}
+	EndGlobalSection
+EndGlobal

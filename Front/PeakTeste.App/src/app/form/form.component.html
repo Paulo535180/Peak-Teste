@@ -1,0 +1,14 @@
+<div class="container text-center">
+
+<div class="col-12 mt-2 mb-2">
+  <label for="parcelas" style="margin-left: 3px;">Parcelas: </label>
+  <input type="number" style="margin-left: 08px;" id="parcelas" [(ngModel)]="parcelas" name="parcelas">
+
+  <label for="valor" style="margin-left: 3px;">Valor: </label>
+  <input style="margin-left: 08px;" type="number" id="valor" [(ngModel)]="valor" name="valor">
+
+</div>
+
+<button type="button" class="btn btn-success" (click)="submitForm()">Enviar</button>
+
+</div>
